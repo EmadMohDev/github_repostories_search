@@ -1,4 +1,4 @@
-# github_repostories_search
+# github repostories search
 
 Service Specification
 The service should be able to provide:
